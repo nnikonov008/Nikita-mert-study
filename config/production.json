@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "nikita mern",
+    "mongoUri": "mongodb+srv://nikita:123@cluster0.xbjl1.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+  }
+  
